@@ -1,0 +1,125 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+import java.util.Date;
+import java.util.Set;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.NamedQuery;
+import javax.persistence.OneToMany;
+
+import javafx.scene.chart.PieChart.Data;
+
+
+	@Entity
+	@NamedQuery(name = "Article", query = "select OBJECT(b) from Article b")
+	public class Article  implements Serializable{
+		@Id
+		@GeneratedValue(strategy = GenerationType.AUTO)
+		private long idArticle;
+		private String libelle;
+		private String reference;
+		private float prixAchatHT;
+		private int  stock;
+		//protected Set<LigneAchat> ligneachat;
+		private LigneAchat ligneachat;
+
+		public Article(long idArticle, String libelle, String reference, float prixAchatHT, int stock) {
+			super();
+			this.idArticle = idArticle;
+			this.libelle = libelle;
+			this.reference = reference;
+			this.prixAchatHT = prixAchatHT;
+			this.stock = stock;
+		}
+	
+		public Article() {
+			super();
+			// TODO Auto-generated constructor stub
+		}
+		
+		/*@OneToMany
+		public Set<LigneAchat> getLigneachat() {
+			return ligneachat;
+		}
+		public void setLigneachat(Set<LigneAchat> ligneachat) {
+			this.ligneachat = ligneachat;
+		}*/
+		public long getIdArticle() {
+			return idArticle;
+		}
+		public void setIdArticle(long idArticle) {
+			this.idArticle = idArticle;
+		}
+		public String getLibelle() {
+			return libelle;
+		}
+		public void setLibelle(String libelle) {
+			this.libelle = libelle;
+		}
+		public String getReference() {
+			return reference;
+		}
+		public void setReference(String reference) {
+			this.reference = reference;
+		}
+		public float getPrixAchatHT() {
+			return prixAchatHT;
+		}
+		public void setPrixAchatHT(float prixAchatHT) {
+			this.prixAchatHT = prixAchatHT;
+		}
+		public int getStock() {
+			return stock;
+		}
+		public void setStock(int stock) {
+			this.stock = stock;
+		}
+		@Override
+		public int hashCode() {
+			final int prime = 31;
+			int result = 1;
+			result = prime * result + (int) (idArticle ^ (idArticle >>> 32));
+			result = prime * result + ((libelle == null) ? 0 : libelle.hashCode());
+			result = prime * result + Float.floatToIntBits(prixAchatHT);
+			result = prime * result + ((reference == null) ? 0 : reference.hashCode());
+			result = prime * result + stock;
+			return result;
+		}
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			Article other = (Article) obj;
+			if (idArticle != other.idArticle)
+				return false;
+			if (libelle == null) {
+				if (other.libelle != null)
+					return false;
+			} else if (!libelle.equals(other.libelle))
+				return false;
+			if (Float.floatToIntBits(prixAchatHT) != Float.floatToIntBits(other.prixAchatHT))
+				return false;
+			if (reference == null) {
+				if (other.reference != null)
+					return false;
+			} else if (!reference.equals(other.reference))
+				return false;
+			if (stock != other.stock)
+				return false;
+			return true;
+		}
+		@Override
+		public String toString() {
+			return "Article [idArticle=" + idArticle + ", libelle=" + libelle + ", reference=" + reference
+					+ ", prixAchatHT=" + prixAchatHT + ", stock=" + stock + "]";
+		}
+		
+}

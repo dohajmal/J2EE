@@ -1,0 +1,5 @@
+package tn.iit.dao;
+
+public class ServerDao {
+
+}

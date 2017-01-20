@@ -1,0 +1,8 @@
+package tn.iit.model;
+
+public class Server {
+private long idServer;
+private float ram;
+private float disk;
+private String hypervisor;
+}

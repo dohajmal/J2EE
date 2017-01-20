@@ -1,0 +1,28 @@
+package tn.iit.bean;
+
+import java.util.Date;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+import tn.iit.model.Achat;
+
+/**
+ * Session Bean implementation class GestionAchat
+ */
+@Stateless
+@LocalBean
+public class GestionAchat implements GestionAchatRemote {
+	
+	@PersistenceContext
+	private EntityManager em;
+	
+    public GestionAchat() {
+        // TODO Auto-generated constructor stub
+    }
+	public Achat creerAchat(Date date){}
+	public void AjoutLigneAchat(Achat achat,long idAchat, int quantite){}
+	public void calculTotal(Achat achat,float remise){}
+}

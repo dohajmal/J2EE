@@ -1,0 +1,1407 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-09 22:02:34.426
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 16842768 2016-12-09 22:10:02.517
+!MESSAGE 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-09 22:16:01.203
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-09 22:16:06.019
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-13 20:22:27.188
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-13 20:22:55.379
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:22:55.396
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:23:15.419
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-13 20:31:25.270
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-13 20:31:36.133
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-13 20:31:39.040
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:32:02.123
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:32:22.147
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:41:42.569
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:42:02.635
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:48:13.707
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:48:33.733
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:48:52.217
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:49:12.319
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:50:02.455
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:50:22.480
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 20:57:39.252
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 20:57:59.277
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:02:39.725
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:02:59.753
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:04:28.844
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:04:48.867
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:10:51.178
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:11:11.123
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:11:11.202
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:11:31.151
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:13:31.669
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:13:51.692
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:17:04.438
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:17:24.465
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-13 21:23:12.551
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-13 21:23:12.677
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-13 21:23:21.755
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-13 21:23:24.068
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:24:12.148
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:24:32.173
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:25:30.566
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:25:50.593
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:27:31.546
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:27:51.572
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:29:45.715
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:30:05.737
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:35:41.817
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:36:01.838
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-13 21:36:50.904
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-13 21:37:21.047
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-13 21:37:23.461
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:37:23.497
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:37:43.523
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:38:30.488
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:38:50.506
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-13 21:44:24.211
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-13 21:44:56.536
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-13 21:44:59.349
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:44:59.374
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:45:19.452
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:49:03.817
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:49:23.837
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:53:03.964
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:53:23.985
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 21:56:43.062
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 21:57:03.080
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:07:33.232
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:07:53.252
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:10:39.741
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:10:59.757
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:15:33.802
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:15:53.825
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:26:37.702
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:26:57.723
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:38:21.130
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:38:41.150
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:39:51.817
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:40:11.833
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-13 22:40:28.812
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-13 22:40:36.802
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-13 22:40:39.715
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:40:58.980
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:41:18.999
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:45:04.165
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:45:24.187
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:49:14.033
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:49:34.057
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:52:35.073
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:52:55.088
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:55:28.678
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:55:48.698
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 22:57:01.327
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 22:57:21.348
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:02:01.550
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:02:21.569
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:13:18.526
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:13:38.564
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:18:31.982
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:18:52.008
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:21:16.185
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:21:36.212
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:35:23.108
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:35:43.137
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:38:27.051
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:38:47.075
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:41:42.031
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:42:02.056
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:48:52.843
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:49:12.871
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:49:43.204
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:50:03.231
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:53:41.957
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:54:01.981
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:58:52.261
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-13 23:59:12.284
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-13 23:59:59.392
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:00:19.417
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 00:01:32.714
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:01:52.737
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-14 00:02:39.748
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-14 00:02:54.548
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-14 00:02:57.372
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 00:03:08.370
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 00:03:25.883
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:03:28.398
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:03:45.905
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 00:04:58.579
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:05:18.666
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 00:12:48.249
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:13:08.278
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-14 00:28:49.954
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-14 00:28:50.113
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-14 00:28:51.193
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-14 00:28:54.002
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 00:29:30.722
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 00:29:50.749
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-14 20:49:44.036
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-14 20:50:03.555
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 20:52:48.723
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 20:53:08.849
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:08:56.054
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:09:16.132
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:11:13.336
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:11:33.367
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:13:22.269
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:13:42.297
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:17:51.204
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:18:11.231
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:18:44.908
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:19:04.937
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:21:11.467
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:21:31.490
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:27:10.980
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:27:31.004
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:28:56.332
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:29:16.356
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:31:18.566
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:31:38.593
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:44:12.934
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:44:33.016
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:52:36.445
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:52:56.543
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 21:58:34.664
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 21:58:54.689
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:00:59.933
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:01:19.958
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:02:49.849
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:03:09.871
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:05:35.940
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:05:55.963
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:06:34.051
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:06:54.073
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:09:41.121
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:10:01.221
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:10:47.874
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:11:07.935
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:13:34.608
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:13:54.700
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:14:41.271
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-14 22:14:58.457
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:15:01.291
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-14 22:15:06.572
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-14 22:15:19.554
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:15:35.509
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:15:55.583
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:25:08.838
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:25:28.922
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-14 22:28:36.640
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-14 22:28:36.858
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-14 22:28:39.431
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-14 22:28:42.237
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:28:42.275
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:29:02.304
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-14 22:30:03.424
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-14 22:33:39.033
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-14 22:35:10.146
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-14 22:35:13.070
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:35:29.815
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:35:49.895
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:36:57.722
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:37:17.748
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:40:52.296
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:41:12.418
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:47:50.949
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:48:10.971
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 22:55:23.549
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 22:55:43.621
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:02:07.025
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:02:27.048
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:05:17.567
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:05:37.652
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:09:15.530
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:09:35.555
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:12:18.099
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:12:38.122
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:13:44.441
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:14:04.465
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:15:40.960
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:16:00.984
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:17:06.959
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:17:26.985
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:18:10.342
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:18:30.361
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:31:14.290
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:31:34.316
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:33:54.556
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:34:14.580
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-14 23:46:46.972
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-14 23:47:06.998
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:03:30.235
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:03:50.264
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:04:29.283
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 00:04:42.110
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:04:49.310
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 00:04:49.327
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 00:04:53.760
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:05:34.363
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:05:54.441
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-15 00:11:53.393
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 00:11:53.626
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 00:11:59.873
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 00:12:03.899
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:14:23.266
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:14:43.351
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:16:43.582
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:17:03.661
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:18:26.747
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:18:46.774
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:19:43.848
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:20:03.874
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:24:57.564
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:25:17.647
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:33:47.932
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:34:08.011
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:34:21.588
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:34:41.614
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:37:48.847
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:38:08.874
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:42:05.857
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:42:25.885
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:43:48.952
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:44:08.980
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:54:26.633
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 00:54:37.312
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:54:46.723
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 00:54:58.570
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 00:55:03.095
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 00:55:25.847
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 00:55:45.875
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 01:00:26.692
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 01:00:38.243
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 01:00:41.158
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 01:00:52.977
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 01:01:13.008
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 01:20:01.304
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 01:20:21.417
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 16:38:14.818
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 16:38:30.838
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 16:39:53.373
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 16:40:13.516
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 16:47:14.159
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 16:47:34.305
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 16:50:10.614
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 16:50:30.734
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 16:55:38.186
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 16:55:58.336
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 16:57:36.179
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 16:57:56.233
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:00:48.599
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:01:08.621
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:05:56.974
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:06:16.999
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:07:30.139
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:07:50.161
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:16:20.217
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:16:40.242
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:19:04.686
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:19:24.711
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:21:01.167
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:21:21.194
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:22:15.044
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:22:35.068
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:23:26.343
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:23:46.368
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:26:10.463
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:26:30.484
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:30:38.318
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:30:58.342
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:35:32.386
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:35:52.411
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 17:36:02.772
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 17:36:10.295
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 17:36:14.718
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 17:36:24.462
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 17:36:44.483
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 18:02:35.634
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 18:02:55.741
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 18:06:18.911
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 18:06:38.941
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 18:07:44.849
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 18:08:04.875
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 18:10:24.608
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 18:10:44.630
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:13:07.012
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:13:27.118
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:18:30.048
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:18:50.076
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:20:40.935
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:21:00.960
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-15 19:22:45.482
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 19:22:45.940
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2016-12-15 19:22:46.033
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 19:22:52.597
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 19:23:21.637
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:24:58.610
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:25:18.746
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:28:17.565
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:28:37.695
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:36:48.199
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:37:08.307
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:43:33.036
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:43:53.068
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:45:34.606
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:45:54.627
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:47:49.862
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:48:09.889
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 19:49:12.982
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 19:49:33.008
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:03:21.554
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:03:41.575
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:08:52.900
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:09:12.924
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:11:15.605
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:11:35.628
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:15:33.781
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:15:53.806
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:16:59.715
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:17:19.738
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:18:31.334
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:18:51.359
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:18:59.165
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:19:19.187
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:32:37.549
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:32:57.642
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:35:30.902
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:35:50.927
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:37:48.310
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:38:08.332
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:40:40.418
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:41:00.442
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:44:44.390
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:45:04.414
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:49:12.181
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:49:32.205
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:51:47.535
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 20:51:52.684
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 20:52:02.299
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 20:52:06.211
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:52:07.560
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:52:23.052
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:52:43.077
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:56:18.990
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:56:39.015
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 20:58:15.398
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 20:58:35.422
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:06:02.160
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:06:22.182
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:11:37.815
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:11:57.837
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:14:52.168
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:15:12.194
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:16:40.730
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:17:00.754
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:18:00.945
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:18:20.965
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:19:16.986
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:19:37.012
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 21:42:35.989
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 21:42:56.098
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 21:46:38.933
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 21:46:46.467
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 21:46:49.883
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 22:35:35.186
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 22:35:49.458
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 22:35:53.395
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 22:36:18.650
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 22:36:38.675
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 23:05:39.622
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 23:05:59.728
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 23:07:11.075
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 23:07:31.101
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-15 23:11:06.912
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-15 23:11:26.938
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 23:40:03.739
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 23:40:06.693
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-15 23:42:25.608
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-15 23:42:25.771
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-15 23:42:33.099
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-15 23:42:35.511
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-16 00:33:36.613
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-16 00:33:45.833
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-12-16 00:35:41.207
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-12-16 00:36:01.225
+!MESSAGE Module GestionBancaireWeb on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-16 03:32:06.860
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-16 03:32:25.216
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-12-16 03:34:52.114
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-16 03:34:52.406
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-16 03:34:53.692
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-16 03:34:56.105
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-12-16 03:53:13.903
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-16 03:53:20.400
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-16 03:53:24.343
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-16 12:25:56.777
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-16 12:26:03.169
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-12-16 14:12:10.153
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-12-16 14:12:20.424
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:16:21.227
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:16:47.706
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 00:24:27.670
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:24:34.995
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:24:37.408
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 00:26:36.335
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:26:44.660
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:26:49.203
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 00:28:11.955
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:28:19.446
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:28:21.860
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 00:41:44.508
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:41:53.965
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:41:57.978
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 00:46:33.167
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:46:40.844
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:46:43.657
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 00:48:14.851
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 00:48:53.836
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 00:48:56.762
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 12:29:34.599
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 12:29:39.072
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 12:34:26.648
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 12:34:34.762
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 12:34:37.580
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-01-12 20:47:58.345
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-01-12 20:48:10.633
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-01-12 20:48:20.962
+!MESSAGE Server Startup Succeeded

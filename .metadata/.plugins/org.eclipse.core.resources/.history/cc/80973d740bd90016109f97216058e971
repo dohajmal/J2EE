@@ -1,0 +1,24 @@
+package tn.iit.service;
+
+import javax.ejb.EJB;
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+import tn.iit.dao.ServerDaoLocal;
+
+/**
+ * Session Bean implementation class ServerService
+ */
+@Stateless
+@LocalBean
+public class ServerService implements ServerServiceLocal {
+	
+@EJB
+private ServerDaoLocal serverSer;
+   
+    public ServerService() {
+        // TODO Auto-generated constructor stub
+    }
+    
+
+}

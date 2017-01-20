@@ -1,0 +1,71 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<link rel="stylesheet"
+	href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet"
+	href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+<script
+	src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form method="POST" action="ClientBanqueServlet" style="margin-left:-4%">
+		<h2 style="margin-left: 5%">Ajout Client</h2>
+		<table style="margin-left: -19%;">
+			<tr>
+
+				<td>CIN :</td>
+				<td><input type="text" name="cin" class="form-control" placeholder="CIN" style="width:178%;height:34px"/></td></tr>
+				<tr><td>NOM :</td>
+				<td><input type="text" name="nom" class="form-control" placeholder="NOM"/></td></tr>
+				<tr><td>PRENOM :</td>
+				<td><input type="text" name="prenom" class="form-control" placeholder="PRENOM"/></td></tr>
+				<tr><td>ADRESSE :</td>
+				<td><input type="text" name="adresse" class="form-control" placeholder="ADRESSE"/></td>
+
+			</tr>
+		</table>
+		<input type="text" name="add" value="1" hidden /> <input
+			type="submit" value="Ajouter" name="bt" class="btn btn-default" style="margin-left: 42%;margin-top: -34px;width: 19%;" />
+
+		<table class="table table-bordered"
+			style="margin-left: -19%; margin-top: 2%; width: 80%; max-width: 100%; margin-bottom: 20px;">
+			<tr>
+				<th>Cin</th>
+				<th>Nom</th>
+				<th>Prenom</th>
+				<th>Adresse</th>
+				<th>Supprimer</th>
+				<th>Modifier</th>
+				<th>Gerer Comptes</th>
+			<tr>
+			<tr>
+				<c:forEach items="${listClient}" var="client">
+
+					<tr>
+						<td>${client.cin}</td>
+						<td>${client.nom}</td>
+						<td>${client.prenom}</td>
+						<td>${client.adresse}</td>
+
+						<td><a href="ClientBanqueServlet?id=${client.cin}&var=1"
+							name="bt" value="delete"> Delete</a></td>
+						<td><a
+							href="ClientBanqueServlet?id=${client.cin}&nom=${client.nom}&prenom=${client.prenom}&adresse=${client.adresse}&var=2"
+							name="bt" value="modifier">Modifier</a></td>
+						<td><a href="CompteBancaireServlet?cin=${client.cin}&var=2"
+							name="bt" value="gerer">Gerer Comptes</a></td>
+
+
+					</tr>
+				</c:forEach>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;HelloEJB/ejbModule/tn.iit.hello&apos;&#x0D;&#x0A;- Original project: &apos;HelloEJB&apos;&#x0D;&#x0A;- Destination element: &apos;HelloEJB/ejbModule/tn.iit.hello&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     tn.iit.HelloRemote.java&#x0D;&#x0A;     tn.iit.HelloWS.java&#x0D;&#x0A;     tn.iit.HelloLocal.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/ejbModule&lt;tn.iit.hello" element1="/ejbModule&lt;tn.iit{HelloRemote.java" element2="/ejbModule&lt;tn.iit{HelloWS.java" element3="/ejbModule&lt;tn.iit{HelloLocal.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1479649063445" units="3" version="1.0"/>
+</session>

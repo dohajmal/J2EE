@@ -1,0 +1,59 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+import java.util.Date;
+
+import javax.persistence.Entity;
+import javax.persistence.NamedQuery;
+
+
+@Entity
+@NamedQuery(name = "Achat", query = "select OBJECT(b) from Achat b")
+public class Achat  implements Serializable {
+
+	private long idAchat;
+	private Date date;
+	private float totalHt;
+	private float remise;
+	
+	public Achat() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public Achat(long idAchat, Date date, float totalHt, float remise) {
+		super();
+		this.idAchat = idAchat;
+		this.date = date;
+		this.totalHt = totalHt;
+		this.remise = remise;
+	}
+	
+	public long getIdAchat() {
+		return idAchat;
+	}
+	public void setIdAchat(long idAchat) {
+		this.idAchat = idAchat;
+	}
+	public Date getDate() {
+		return date;
+	}
+	public void setDate(Date date) {
+		this.date = date;
+	}
+	public float getTotalHt() {
+		return totalHt;
+	}
+	public void setTotalHt(float totalHt) {
+		this.totalHt = totalHt;
+	}
+	public float getRemise() {
+		return remise;
+	}
+	public void setRemise(float remise) {
+		this.remise = remise;
+	}
+	@Override
+	public String toString() {
+		return "Article [idAchat=" + idAchat + ", date=" + date + ", totalHt=" + totalHt + ", remise=" + remise
+				+ "]";
+	}

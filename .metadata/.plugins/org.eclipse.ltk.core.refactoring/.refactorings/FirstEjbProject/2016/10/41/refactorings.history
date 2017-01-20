@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HelloRemote.java&apos; to &apos;tn.iit.service.HelloRemote.java&apos;&#x0D;&#x0A;- Original project: &apos;FirstEjbProject&apos;&#x0D;&#x0A;- Destination element: &apos;tn.iit.service.HelloRemote.java&apos;&#x0D;&#x0A;- Original element: &apos;tn.iit.service.HelloRemote.java&apos;" description="Copy compilation unit" destination="/ejbModule&lt;tn.iit.service{HelloRemote.java" element1="/ejbModule&lt;tn.iit.service{HelloRemote.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1476628384869" units="1" version="1.0"/>
+</session>

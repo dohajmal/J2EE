@@ -1,0 +1,15 @@
+package tn.iit.dao;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Remote;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class GestionAchatRemote
+ */
+@Remote
+public interface GestionAchatRemote {
+
+
+
+}

@@ -1,0 +1,33 @@
+package tn.iit.dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+import javax.persistence.Query;
+import tn.iit.model.VM;
+
+public class VMDao {
+	@PersistenceContext
+	private EntityManager em;
+
+	public void save(VM v) {
+		em.persist(v);
+	}
+
+	public void delete(VM v) {
+		em.remove(em.find(VM.class, v.getIdVm()));
+	}
+
+	public void update(VM v) {
+
+		em.merge(v);
+	}
+
+	// @SuppressWarnings("unchecked")
+	public List<VM> getAll() {
+		Query q = em.createNamedQuery("vm", VM.class);
+		List<VM> list = (List<VM>) q.getResultList();
+		return list;
+	}
+}

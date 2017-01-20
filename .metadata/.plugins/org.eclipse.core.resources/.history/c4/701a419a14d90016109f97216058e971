@@ -1,0 +1,23 @@
+package tn.iit.service;
+
+import javax.ejb.EJB;
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+import tn.iit.dao.ServerDaoLocal;
+import tn.iit.model.Server;
+
+/**
+ * Session Bean implementation class ServerService
+ */
+@Stateless
+@LocalBean
+public class ServerService implements ServerServiceLocal {
+	
+@EJB
+private ServerDaoLocal dao;
+ 
+    public void save(Server s) {
+		dao.save(s);
+	}
+}

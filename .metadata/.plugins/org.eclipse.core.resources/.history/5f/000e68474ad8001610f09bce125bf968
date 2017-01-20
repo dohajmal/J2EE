@@ -1,0 +1,18 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.NamedQuery;
+
+import javafx.scene.chart.PieChart.Data;
+
+
+	@Entity
+	@NamedQuery(name = "Article", query = "select OBJECT(b) from Article b")
+	public class Article implements Serializable {
+
+		private long idAchat;
+		private Data date;
+		private float totalHt
+}

@@ -1,0 +1,104 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.NamedQuery;
+import javax.persistence.OneToMany;
+
+@Entity
+@NamedQuery(name = "LigneAchat", query = "select OBJECT(b) from LigneAchat b")
+public class LigneAchat implements Serializable {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private long idLigneAchat;
+	private int quantite;
+	
+	@ManyToOne(fetch=FetchType.LAZY)
+    @JoinColumn(name="idAchat")
+	private Article idAchat;
+	private Achat achat;
+	public LigneAchat() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	public LigneAchat(long idLigneAchat, int quantite, Article article, Achat achat) {
+		super();
+		this.idLigneAchat = idLigneAchat;
+		this.quantite = quantite;
+		this.article = article;
+		this.achat = achat;
+	}
+
+	public long getIdLigneAchat() {
+		return idLigneAchat;
+	}
+	public void setIdLigneAchat(long idLigneAchat) {
+		this.idLigneAchat = idLigneAchat;
+	}
+	public int getQuantite() {
+		return quantite;
+	}
+	public void setQuantite(int quantite) {
+		this.quantite = quantite;
+	}
+
+	@ManyToOne
+	@JoinColumn(name = "idAchat")
+	public Achat getAchat() {
+		return achat;
+	}
+	public void setAchat(Achat achat) {
+		this.achat = achat;
+	}
+	
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((achat == null) ? 0 : achat.hashCode());
+		result = prime * result + ((article == null) ? 0 : article.hashCode());
+		result = prime * result + (int) (idLigneAchat ^ (idLigneAchat >>> 32));
+		result = prime * result + quantite;
+		return result;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		LigneAchat other = (LigneAchat) obj;
+		if (achat == null) {
+			if (other.achat != null)
+				return false;
+		} else if (!achat.equals(other.achat))
+			return false;
+		if (article == null) {
+			if (other.article != null)
+				return false;
+		} else if (!article.equals(other.article))
+			return false;
+		if (idLigneAchat != other.idLigneAchat)
+			return false;
+		if (quantite != other.quantite)
+			return false;
+		return true;
+	}
+	@Override
+	public String toString() {
+		return "LigneAchat [idLigneAchat=" + idLigneAchat + ", quantite=" + quantite + ", article=" + article
+				+ ", achat=" + achat + "]";
+	}
+	
+}

@@ -1,0 +1,20 @@
+package tn.iit.bean;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class GestionArticle
+ */
+@Stateless
+@LocalBean
+public class GestionArticle {
+
+    /**
+     * Default constructor. 
+     */
+    public GestionArticle() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

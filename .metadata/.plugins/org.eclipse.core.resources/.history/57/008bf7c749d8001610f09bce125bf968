@@ -1,0 +1,5 @@
+package tn.iit.model;
+
+public class Article {
+
+}

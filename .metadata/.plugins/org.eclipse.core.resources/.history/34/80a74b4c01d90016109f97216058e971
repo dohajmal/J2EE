@@ -1,0 +1,31 @@
+package tn.iit.test;
+
+import java.util.Date;
+
+import javax.ejb.EJB;
+
+import tn.iit.bean.GestionAchatRemote;
+import tn.iit.bean.GestionArticleRemote;
+import tn.iit.model.Achat;
+
+public class TestAchatt {
+	@EJB
+	static GestionAchatRemote gestionAchatRemote;
+	@EJB
+	static GestionArticleRemote gestionArticleRemote;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		long idArticle1 = gestionArticleRemote.ajoutArticle("huile", "Exon4T", 45000);
+		long idArticle2 = gestionArticleRemote.ajoutArticle("Filtre", "GIF", 5000);
+		gestionArticleRemote.ajoutArticle("huile", "Exon4T", 45000);
+		Achat achat = gestionAchatRemote.creerAchat(new Date());
+		gestionAchatRemote.AjoutLigneAchat(achat, idArticle1, 5);
+		gestionAchatRemote.AjoutLigneAchat(achat, idArticle2, 2);
+		gestionAchatRemote.AjoutLigneAchat(achat, idArticle2, 2);
+		gestionAchatRemote.calculTotal(achat, 8);
+		System.out.println("TotalHT = " + achat.getTotalHt());
+
+	}
+
+}

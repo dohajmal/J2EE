@@ -1,0 +1,16 @@
+package tn.iit.test;
+
+import javax.ejb.EJB;
+import javax.ejb.Stateless;
+
+import tn.iit.bean.GestionAchatRemote;
+import tn.iit.bean.GestionArticleRemote;
+
+@Stateless
+public class TestAchat implements TestAchatRemote  {
+@EJB GestionAchatRemote gestionArticleRemote;
+@EJB GestionArticleRemote gestionAchatRemote;
+public void testCreationAchat(){
+	
+}
+}

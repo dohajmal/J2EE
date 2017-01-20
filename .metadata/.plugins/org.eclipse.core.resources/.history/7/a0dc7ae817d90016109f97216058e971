@@ -1,0 +1,27 @@
+package tn.iit.service;
+
+import java.util.List;
+
+import javax.ejb.EJB;
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+import javax.persistence.Query;
+
+import tn.iit.dao.ServerDaoLocal;
+import tn.iit.model.LigneAchat;
+import tn.iit.model.Server;
+import tn.iit.model.VM;
+
+/**
+ * Session Bean implementation class ServerService
+ */
+@Stateless
+@LocalBean
+public class ServerService implements ServerServiceLocal {
+	
+@EJB
+private ServerDaoLocal dao;
+ 
+    public int  getMaxVMBySever(Server server,VM vm) {
+    }
+}

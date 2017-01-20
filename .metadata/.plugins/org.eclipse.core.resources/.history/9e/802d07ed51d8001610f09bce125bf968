@@ -1,0 +1,12 @@
+package tn.iit.dao;
+
+import javax.ejb.Remote;
+
+/**
+ * Session Bean implementation class GestionArticleRemote
+ */
+@Remote
+public interface GestionArticleRemote {
+
+  
+}

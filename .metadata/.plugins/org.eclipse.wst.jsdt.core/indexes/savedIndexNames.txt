@@ -1,0 +1,11 @@
+INDEX VERSION 1.3+D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3295016317.index
+4081913921.index
+760713068.index
+980853301.index
+3223464751.index
+2465345357.index
+1658710102.index
+3691238406.index
+2043144001.index
+2546664512.index

@@ -1,0 +1,80 @@
+package tn.iit.bean;
+
+import java.util.Date;
+import java.util.List;
+
+import javax.ejb.EJB;
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+import javax.persistence.Query;
+
+import tn.iit.model.Achat;
+import tn.iit.model.Article;
+import tn.iit.model.ClientBanque;
+import tn.iit.model.LigneAchat;
+
+/**
+ * Session Bean implementation class GestionAchat
+ */
+@Stateless
+@LocalBean
+public class GestionAchat implements GestionAchatRemote {
+
+	// @EJB
+	private GestionArticle gc;
+	@PersistenceContext
+	private EntityManager em;
+
+	public GestionAchat() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Achat creerAchat(Date date) {
+		Achat a = new Achat();
+		a.setDate(date);
+		em.persist(a);
+		return a;
+	}
+
+	public void AjoutLigneAchat(Achat achat, long idArticle, int quantite) {
+		/*Query q = em.createQuery("select OBJECT(b) from LigneAchat la where la.idArticle= :art and la.idAchat= :acha");
+		if (q.getResultList().size() > 1) {
+			LigneAchat la = (LigneAchat) q.getSingleResult();
+			la.setQuantite(la.getQuantite() + quantite);
+			em.merge(la);
+		}
+		Article article = gc.getById(idArticle);
+		LigneAchat lign = new LigneAchat();
+		lign.setAchat(achat);
+		lign.setArticle(article);
+		lign.setQuantite(quantite);*/
+		Article article = gc.getById(idArticle);
+		if(article.getStock()>0 && quantite<=article.getStock())
+		{	
+			LigneAchat lign = new LigneAchat();
+			lign.setAchat(achat);
+			lign.setArticle(article);
+			lign.setQuantite(quantite);
+			em.persist(lign);
+			article.setStock(article.getStock()-quantite);
+			em.merge(article);
+			
+		}
+		else
+			System.out.println("pas darticle ou la quantité est supperieur de la quant du stock");
+		
+	}
+
+	public void calculTotal(Achat achat, float remise) {
+		Query q = em.createQuery("select OBJECT(b) from LigneAchat la where la.idAchat= :acha");
+		q.setParameter("acha", achat.getIdAchat());
+		List<LigneAchat> list = (List<LigneAchat>) q.getResultList();
+		
+
+		for(int i=0;i<q.getResultList().size();i++){
+			
+		}
+	}
+}

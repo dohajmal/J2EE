@@ -1,0 +1,17 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.NamedQuery;
+
+@Entity
+@NamedQuery(name = "vm", query = "select OBJECT(b) from VM b")
+public class VM implements Serializable {
+	private long idVm;
+	private float price;
+	private float ram;
+	private float disk;
+	private float os;
+	
+}

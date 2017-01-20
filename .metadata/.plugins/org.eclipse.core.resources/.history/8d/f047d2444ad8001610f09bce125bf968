@@ -1,0 +1,14 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.NamedQuery;
+
+public class Article {
+	@Entity
+	@NamedQuery(name = "Article", query = "select OBJECT(b) from Article b")
+	public class ARTICLE implements Serializable {
+
+		private String cin;
+}

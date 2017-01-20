@@ -1,0 +1,304 @@
+2016-10-30 16:36:42,824 [Worker-113] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:36:47,669 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:36:47,678 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:36:47,680 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:36:47,695 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:36:47,759 [Worker-113] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejbclientHello/src
+2016-10-30 16:36:47,760 [Worker-113] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ejbclientHello/src/test/java because it overlaps with /ejbclientHello/src
+2016-10-30 16:36:47,989 [Worker-113] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-30 16:36:48,355 [Worker-113] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:36:48,578 [Worker-113] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejbclientHello/src
+2016-10-30 16:36:48,579 [Worker-113] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ejbclientHello/src/test/java because it overlaps with /ejbclientHello/src
+2016-10-30 16:36:48,689 [Worker-113] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-10-30 16:36:48,916 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:36:48,927 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:36:48,930 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:36:48,940 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:39:15,910 [Worker-118] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...<dependencies><dependencies>... @19:31) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...<dependencies><dependencies>... @19:31) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2016-10-30 16:39:40,045 [Worker-122] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:39:50,561 [Worker-124] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:40:10,429 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for HelloWordServer:HelloWordServer:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-10-30 16:40:10,439 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for HelloEJB:HelloEJB:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-10-30 16:40:10,884 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:40:10,885 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for HelloWordServer:HelloWordServer:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-10-30 16:40:10,894 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for HelloEJB:HelloEJB:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-10-30 16:40:17,611 [Worker-118] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:40:26,314 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:40:26,316 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for HelloWordServer:HelloWordServer:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-10-30 16:40:26,324 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for HelloEJB:HelloEJB:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-10-30 16:40:31,172 [Worker-122] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:41:23,565 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:41:33,043 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello
+2016-10-30 16:41:33,046 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-10-30 16:42:03,068 [Worker-122] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:42:03,370 [Worker-122] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejbclientHello/src
+2016-10-30 16:42:03,370 [Worker-122] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ejbclientHello/src/test/java because it overlaps with /ejbclientHello/src
+2016-10-30 16:42:03,448 [Worker-122] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-30 16:42:03,763 [Worker-122] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:42:04,186 [Worker-122] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejbclientHello/src
+2016-10-30 16:42:04,186 [Worker-122] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ejbclientHello/src/test/java because it overlaps with /ejbclientHello/src
+2016-10-30 16:42:04,239 [Worker-122] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-10-30 16:42:04,485 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:42:04,515 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:42:04,522 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:42:04,550 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:42:41,025 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/wildfly/wildfly-ejb-client-bom/9.0.1.Final/wildfly-ejb-client-bom-9.0.1.Final.pom
+2016-10-30 16:42:42,011 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/wildfly/wildfly-ejb-client-bom/9.0.1.Final/wildfly-ejb-client-bom-9.0.1.Final.pom
+2016-10-30 16:42:42,770 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/wildfly/wildfly-parent/9.0.1.Final/wildfly-parent-9.0.1.Final.pom
+2016-10-30 16:42:48,149 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/wildfly/wildfly-parent/9.0.1.Final/wildfly-parent-9.0.1.Final.pom
+2016-10-30 16:42:48,789 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/16/jboss-parent-16.pom
+2016-10-30 16:42:49,705 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/16/jboss-parent-16.pom
+2016-10-30 16:42:51,856 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/wildfly/core/wildfly-core-parent/1.0.1.Final/wildfly-core-parent-1.0.1.Final.pom
+2016-10-30 16:43:02,883 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/wildfly/core/wildfly-core-parent/1.0.1.Final/wildfly-core-parent-1.0.1.Final.pom
+2016-10-30 16:43:03,848 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/wildfly/arquillian/wildfly-arquillian-parent/1.0.0.Final/wildfly-arquillian-parent-1.0.0.Final.pom
+2016-10-30 16:43:11,405 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/wildfly/arquillian/wildfly-arquillian-parent/1.0.0.Final/wildfly-arquillian-parent-1.0.0.Final.pom
+2016-10-30 16:43:12,538 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/wildfly/core/wildfly-core-parent/1.0.0.Final/wildfly-core-parent-1.0.0.Final.pom
+2016-10-30 16:43:31,360 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/wildfly/core/wildfly-core-parent/1.0.0.Final/wildfly-core-parent-1.0.0.Final.pom
+2016-10-30 16:43:31,872 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:43:32,669 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.pom
+2016-10-30 16:43:33,569 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.pom
+2016-10-30 16:43:34,561 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-remote-naming/2.0.4.Final/jboss-remote-naming-2.0.4.Final.pom
+2016-10-30 16:43:37,499 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-remote-naming/2.0.4.Final/jboss-remote-naming-2.0.4.Final.pom
+2016-10-30 16:43:38,711 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2016-10-30 16:43:42,216 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2016-10-30 16:43:43,085 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-ejb-client/2.1.1.Final/jboss-ejb-client-2.1.1.Final.pom
+2016-10-30 16:43:44,060 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-ejb-client/2.1.1.Final/jboss-ejb-client-2.1.1.Final.pom
+2016-10-30 16:43:44,637 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling/1.4.10.Final/jboss-marshalling-1.4.10.Final.pom
+2016-10-30 16:43:45,041 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling/1.4.10.Final/jboss-marshalling-1.4.10.Final.pom
+2016-10-30 16:43:45,462 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling-parent/1.4.10.Final/jboss-marshalling-parent-1.4.10.Final.pom
+2016-10-30 16:43:46,021 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling-parent/1.4.10.Final/jboss-marshalling-parent-1.4.10.Final.pom
+2016-10-30 16:43:46,466 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/11/jboss-parent-11.pom
+2016-10-30 16:43:47,393 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/11/jboss-parent-11.pom
+2016-10-30 16:43:47,936 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-api/3.3.1.Final/xnio-api-3.3.1.Final.pom
+2016-10-30 16:43:48,557 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-api/3.3.1.Final/xnio-api-3.3.1.Final.pom
+2016-10-30 16:43:49,220 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-all/3.3.1.Final/xnio-all-3.3.1.Final.pom
+2016-10-30 16:43:49,815 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-all/3.3.1.Final/xnio-all-3.3.1.Final.pom
+2016-10-30 16:43:50,284 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/14/jboss-parent-14.pom
+2016-10-30 16:43:51,367 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/14/jboss-parent-14.pom
+2016-10-30 16:43:51,762 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/remoting/jboss-remoting/4.0.9.Final/jboss-remoting-4.0.9.Final.pom
+2016-10-30 16:43:52,548 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/remoting/jboss-remoting/4.0.9.Final/jboss-remoting-4.0.9.Final.pom
+2016-10-30 16:43:53,119 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.2.1.Final/jboss-logging-3.2.1.Final.pom
+2016-10-30 16:43:53,800 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.2.1.Final/jboss-logging-3.2.1.Final.pom
+2016-10-30 16:43:54,172 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2016-10-30 16:43:55,005 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2016-10-30 16:43:55,320 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling-river/1.4.10.Final/jboss-marshalling-river-1.4.10.Final.pom
+2016-10-30 16:43:55,750 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling-river/1.4.10.Final/jboss-marshalling-river-1.4.10.Final.pom
+2016-10-30 16:43:56,046 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/sasl/jboss-sasl/1.0.5.Final/jboss-sasl-1.0.5.Final.pom
+2016-10-30 16:43:56,447 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/sasl/jboss-sasl/1.0.5.Final/jboss-sasl-1.0.5.Final.pom
+2016-10-30 16:43:56,804 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2016-10-30 16:43:57,344 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2016-10-30 16:43:57,744 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-nio/3.3.1.Final/xnio-nio-3.3.1.Final.pom
+2016-10-30 16:43:58,171 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-nio/3.3.1.Final/xnio-nio-3.3.1.Final.pom
+2016-10-30 16:43:58,646 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar
+2016-10-30 16:43:59,510 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar
+2016-10-30 16:43:59,740 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-remote-naming/2.0.4.Final/jboss-remote-naming-2.0.4.Final.jar
+2016-10-30 16:44:01,668 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-remote-naming/2.0.4.Final/jboss-remote-naming-2.0.4.Final.jar
+2016-10-30 16:44:01,979 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling/1.4.10.Final/jboss-marshalling-1.4.10.Final.jar
+2016-10-30 16:44:03,806 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling/1.4.10.Final/jboss-marshalling-1.4.10.Final.jar
+2016-10-30 16:44:04,157 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-api/3.3.1.Final/xnio-api-3.3.1.Final.jar
+2016-10-30 16:44:06,983 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-api/3.3.1.Final/xnio-api-3.3.1.Final.jar
+2016-10-30 16:44:07,233 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/remoting/jboss-remoting/4.0.9.Final/jboss-remoting-4.0.9.Final.jar
+2016-10-30 16:44:08,866 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/remoting/jboss-remoting/4.0.9.Final/jboss-remoting-4.0.9.Final.jar
+2016-10-30 16:44:09,154 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/sasl/jboss-sasl/1.0.5.Final/jboss-sasl-1.0.5.Final.jar
+2016-10-30 16:44:09,966 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/sasl/jboss-sasl/1.0.5.Final/jboss-sasl-1.0.5.Final.jar
+2016-10-30 16:44:10,321 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.2.1.Final/jboss-logging-3.2.1.Final.jar
+2016-10-30 16:44:10,884 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.2.1.Final/jboss-logging-3.2.1.Final.jar
+2016-10-30 16:44:11,254 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-ejb-client/2.1.1.Final/jboss-ejb-client-2.1.1.Final.jar
+2016-10-30 16:44:12,708 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-ejb-client/2.1.1.Final/jboss-ejb-client-2.1.1.Final.jar
+2016-10-30 16:44:12,964 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-nio/3.3.1.Final/xnio-nio-3.3.1.Final.jar
+2016-10-30 16:44:13,946 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/xnio/xnio-nio/3.3.1.Final/xnio-nio-3.3.1.Final.jar
+2016-10-30 16:44:14,308 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling-river/1.4.10.Final/jboss-marshalling-river-1.4.10.Final.jar
+2016-10-30 16:44:14,873 [Worker-110] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/marshalling/jboss-marshalling-river/1.4.10.Final/jboss-marshalling-river-1.4.10.Final.jar
+2016-10-30 16:44:17,873 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:44:17,882 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:44:17,884 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:44:17,892 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:44:19,454 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:44:19,461 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:44:19,463 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:44:19,469 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:44:36,571 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello
+2016-10-30 16:44:36,572 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-10-30 16:44:44,282 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:44:44,287 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:44:44,289 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:44:44,294 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:45:07,881 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:45:07,892 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:45:07,895 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:45:07,909 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:45:21,085 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello
+2016-10-30 16:45:21,086 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-10-30 16:45:26,277 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:45:26,284 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:45:26,287 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:45:26,294 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:45:48,896 [Worker-122] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-30 16:45:49,315 [Worker-122] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejbclientHello:ejbclientHello:0.0.1-SNAPSHOT @ D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\pom.xml.
+2016-10-30 16:45:49,514 [Worker-122] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejbclientHello/src
+2016-10-30 16:45:49,515 [Worker-122] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ejbclientHello/src/test/java because it overlaps with /ejbclientHello/src
+2016-10-30 16:45:49,714 [Worker-122] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-10-30 16:45:50,037 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:45:50,042 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:45:50,045 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:45:50,051 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:46:51,793 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:46:51,800 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:46:51,801 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:46:51,808 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:49:32,733 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:49:32,742 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:49:32,744 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:49:32,750 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:50:59,579 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:50:59,589 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:50:59,593 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:50:59,609 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-10-30 16:55:29,387 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:55:29,398 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-10-30 16:55:29,403 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-30 16:55:29,413 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-04 18:31:05,588 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-04 18:31:05,628 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-04 18:31:05,632 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-04 18:31:05,640 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-06 14:07:53,263 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-06 14:07:53,344 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-06 14:07:53,350 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-06 14:07:53,367 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-06 14:42:19,287 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-06 14:42:19,301 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-06 14:42:19,304 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-06 14:42:19,316 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-06 20:55:21,652 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-06 20:55:21,683 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-06 20:55:21,686 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-06 20:55:21,696 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-20 14:32:38,290 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-20 14:32:38,318 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-20 14:32:38,321 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-20 14:32:38,329 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-20 14:37:44,217 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-20 14:37:44,237 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-20 14:37:44,241 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-20 14:37:44,255 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-20 16:35:38,904 [Worker-52] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/openbouquet/bouquet-parent/4.2.29/bouquet-parent-4.2.29.pom
+2016-11-20 16:35:39,747 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 24 sec
+2016-11-27 18:28:49,000 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-27 18:28:49,030 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-27 18:28:49,032 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-27 18:28:49,033 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-11-27 19:10:21,982 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-27 19:10:21,997 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-11-27 19:10:22,000 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-27 19:10:22,000 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-01 19:15:25,821 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-01 19:15:25,861 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-01 19:15:25,864 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-01 19:15:25,864 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-02 13:56:34,253 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-02 13:56:34,271 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-02 13:56:34,273 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-02 13:56:34,274 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-02 16:22:24,338 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-02 16:22:24,342 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-02 16:22:24,344 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-02 16:22:24,345 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-09 13:09:48,411 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-09 13:09:48,483 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-09 13:09:48,486 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-09 13:09:48,498 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-09 20:56:24,089 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-09 20:56:24,122 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-09 20:56:24,126 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-09 20:56:24,137 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-13 01:29:20,754 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-13 01:29:20,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-13 01:29:20,784 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-13 01:29:20,794 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-13 10:18:25,027 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-13 10:18:25,074 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-13 10:18:25,076 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-13 10:18:25,083 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-13 11:24:43,335 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-13 11:24:43,341 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-13 11:24:43,343 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-13 11:24:43,349 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-14 20:16:12,024 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-14 20:16:12,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-14 20:16:12,081 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-14 20:16:12,125 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-14 22:34:45,115 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-14 22:34:45,125 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-14 22:34:45,128 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-14 22:34:45,134 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-15 16:13:52,515 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:13:52,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-15 16:13:52,558 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:13:52,567 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-15 23:38:24,673 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 23:38:24,693 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-15 23:38:24,697 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 23:38:24,703 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-16 00:21:57,796 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 00:21:57,821 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-16 00:21:57,823 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 00:21:57,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-16 03:28:44,912 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 03:28:44,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-16 03:28:44,960 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 03:28:44,972 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-16 13:55:16,180 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:55:16,219 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-16 13:55:16,226 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:55:16,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2016-12-25 14:48:51,952 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-25 14:48:51,983 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2016-12-25 14:48:51,985 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-25 14:48:51,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2017-01-11 21:28:32,286 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-11 21:28:32,325 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2017-01-11 21:28:32,333 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-11 21:28:32,349 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources
+2017-01-12 12:19:53,406 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-12 12:19:53,440 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\main\resources
+2017-01-12 12:19:53,442 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-12 12:19:53,446 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ing2014-2017\3eme_ing\S1\J2EE\UtilitaireEJB_WildFly10_EclipseNeon\workspace\ejbclientHello\src\test\resources

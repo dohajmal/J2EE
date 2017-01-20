@@ -1,0 +1,10 @@
+package tn.iit.dao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+public class VMDao {
+	@PersistenceContext
+	private EntityManager em;
+	
+}

@@ -1,0 +1,15 @@
+package tn.iit.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.NamedQuery;
+@Entity
+@NamedQuery(name = "server", query = "select OBJECT(b) from Server b")
+public class Server implements Serializable{
+private long idServer;
+private float ram;
+private float disk;
+private String hypervisor;
+
+}
